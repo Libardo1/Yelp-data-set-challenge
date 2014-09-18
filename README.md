@@ -3,7 +3,7 @@ Yelp-data-set-challenge
 
 Predicting business star of restaurants of Yelp data set using text alone
 
-Moduled the project in R.
+Developed the project in R.
 
 Modules
 =======
